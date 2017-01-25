@@ -130,9 +130,6 @@ text-rendering: auto;
 .ic-display:before {
   content: "\4a";
 }
-.ic-lock:before {
-  content: "\2f";
-}
 .ic-buatbaru:before {
   content: "\e007";
 }
